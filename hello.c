@@ -3,5 +3,6 @@ void main()
 {
  printf("hello");
  printf("hello siri !");
-
+  printf("hello gemini !");
 }
+
