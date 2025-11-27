@@ -1,44 +1,14 @@
-Project Title
-Simple overview of use/purpose.
+# Self Introduction
 
-Description
-An in-depth paragraph about your project and overview of use.
+Hello everyone! 👋  
+My name is *Jaimin bhensdadiya, and I am currently pursuing **Computer Engineering*.
 
-Getting Started
-Dependencies
-Describe any prerequisites, libraries, OS version, etc., needed before installing program.
-ex. Windows 10
-Installing
-How/where to download your program
-Any modifications needed to be made to files/folders
-Executing program
-How to run the program
-Step-by-step bullets
-code blocks for commands
-Help
-Any advise for common problems or issues.
+## 👩‍💻 About Me
+- Passionate about technology, coding, and problem-solving  
+- Interested in *software development, **computer networks, and **data structures*  
+- Enjoy learning new tools, exploring programming concepts, and building small projects  
 
-command to run if program contains helper info
-Authors
-Contributors names and contact info
-
-ex. Dominique Pizzie
-ex. @DomPizzie
-
-Version History
-0.2
-Various bug fixes and optimizations
-See commit change or See release history
-0.1
-Initial Release
-License
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
-
-Acknowledgments
-Inspiration, code snippets, etc.
-
-awesome-readme
-PurpleBooth
-dbader
-zenorocha
-fvcproductions
+## 🛠️ Technical Skills
+- *Programming Languages:* C, C++, Python  
+- *Tools & Technologies:* GitHub, VS Code, Linux, Google Sheets  
+- *Concepts:* OOP, DBMS basics, Operating Systems, Algorithms
