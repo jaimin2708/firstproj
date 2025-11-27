@@ -11,4 +11,4 @@ My name is *Jaimin bhensdadiya, and I am currently pursuing **Computer Engineeri
 ## 🛠️ Technical Skills
 - *Programming Languages:* C, C++, Python  
 - *Tools & Technologies:* GitHub, VS Code, Linux, Google Sheets  
-- *Concepts:* OOP, DBMS basics, Operating Systems, Algorithms
+- *Concepts:* OOP, DBMS basics, Operating Systems, Algorithms.
